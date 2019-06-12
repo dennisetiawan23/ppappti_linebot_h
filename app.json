@@ -1,7 +1,7 @@
 {
   "name": "Self Learning FAQ Bot",
   "description": "A sample FAQ chatbot with automatic learning feature.",
-  "repository": "https://github.com/nkjm/faq-bot-sample-en",
+  "repository": "https://github.com/dennisetiawan23/ppappti_linebot_h",
   "logo": "https://raw.githubusercontent.com/nkjm/faq-bot-sample-en/master/image/logo.png",
   "env": {
       "LINE_CHANNEL_SECRET": {
